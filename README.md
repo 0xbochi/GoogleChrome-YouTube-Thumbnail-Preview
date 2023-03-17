@@ -23,6 +23,9 @@ The add-on is easily installed through the Google store using this link : [COMIN
 4. Check the "Activate replacement" checkbox to enable the extension.
 5. Browse YouTube's homepage and see the randomly selected thumbnail and title replaced with your custom thumbnail and title.
 
+![Addon Preview](img/demo.png)
+
+
 ## Contributing
 
 Contributions to improve this extension are welcomed. Please feel free to open issues or submit pull requests.
