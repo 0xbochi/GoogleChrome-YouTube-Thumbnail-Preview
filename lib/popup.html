@@ -6,21 +6,27 @@
   </head>
   <body>
     <div class="container">
-      <h1 class="title">Thumbnail customizer</h1>
+      <h1 class="title">YouTube Thumbnail Preview</h1>
       <div class="input-group">
-        <label for="file-input" class="file-label">Select an image</label>
+        <label for="file-input" class="custom-file-upload">Select an image</label>
         <input type="file" id="file-input" accept="image/*" class="file-input" />
         <img id="thumbnail-preview" class="thumbnail-preview" />
       </div>
+      
+      <div class="input-group">
+        <label for="title-input" class="text-label">Custom title:</label>
+        <input type="text" id="title-input" class="text-input" />
+      </div>
+
       <div class="input-group">
         <label for="replace-active" class="checkbox-label">
           <input type="checkbox" id="replace-active" class="checkbox-input" />
           Enable replacement
         </label>
       </div>
-      <div class="input-group">
-        <label for="title-input" class="text-label">Custom title:</label>
-        <input type="text" id="title-input" class="text-input" />
+
+      <div>
+        <button id="apply-button">Apply</button>
       </div>
     </div>
 
@@ -31,9 +37,6 @@
         <a href="https://www.linkedin.com/in/luckasbosch/" target="_blank" rel="noopener noreferrer" class="footer-link">LinkedIn</a>
       </p>
     </div>
-    
-
-
 
     <script src="popup.js"></script>
   </body>
