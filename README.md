@@ -13,7 +13,7 @@ This browser extension allows you to replace the thumbnail image and title of Yo
 
 ## Installation
 
-The add-on is easily installed through the Google store using this link : [COMING SOON]
+The add-on is easily installed through the Google store using this link : [Google Web Store](https://chrome.google.com/webstore/detail/youtube-thumbnail-preview/pcjfjbneinhnchemgkcjpanfmkpgekde)
 
 ## Usage
 
